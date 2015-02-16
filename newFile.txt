@@ -1,2 +1,3 @@
 This is added to newFile
-just a demo text
+just a demo changed text !
+
